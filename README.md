@@ -1,0 +1,2 @@
+# Chaos_Quest_Auto_Battle
+奥拉星混沌月副本自动战斗
